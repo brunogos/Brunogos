@@ -23,7 +23,6 @@ Analista de ERP • Estudante de Desenvolvimento Web
 - Relatórios personalizados
 - Integração entre sistemas
 - APIs REST
-- Levantamento de requisitos
 
 📚 Além da minha atuação como Analista de ERP, estou me dedicando aos estudos de HTML, CSS, JavaScript e PHP para ampliar meus conhecimentos em desenvolvimento web..
 
@@ -47,7 +46,6 @@ Meu objetivo é unir minha experiência com ERP e banco de dados ao desenvolvime
 
 Oracle
 
-Firebird
 
 MySQL
 
