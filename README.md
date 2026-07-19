@@ -13,7 +13,6 @@ Analista de ERP • Estudante de Desenvolvimento Web
 </p>
 
 ---
-
 # 👨‍💻 Sobre mim
 
 💼 Atualmente atuo como **Analista de ERP**, participando de projetos relacionados a:
